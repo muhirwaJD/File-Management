@@ -1,4 +1,4 @@
-## 📊 Project 5: Disk Space Analyzer
+## 📊 Project 3: Disk Space Analyzer
 
 **Description:**  
 Analyzes a directory to show which folders and files consume the most disk space using a tree-like structure. Optionally saves output to a log file.
