@@ -1,4 +1,4 @@
-## 🔍 Project 3: Duplicate File Finder
+## 🔍 Project 4: Duplicate File Finder
 
 **Description:**  
 Scans a folder for duplicate files using content-based hashing (MD5) and moves duplicates to a `Duplicates/` folder.
